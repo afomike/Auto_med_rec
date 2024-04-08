@@ -1,1 +1,1 @@
-# Auto_med_rec
+# Automated Clinical Record Management System 
